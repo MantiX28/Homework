@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programming\\C#\\Visual Studio\\home_work_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11589DED-8F4B-4F33-B579-25054852EC8F}|home_work_2\\home_work_2.csproj|h:\\programming\\c#\\visual studio\\home_work_2\\home_work_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11589DED-8F4B-4F33-B579-25054852EC8F}|home_work_2\\home_work_2.csproj|solutionrelative:home_work_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Programming\\C#\\Visual Studio\\home_work_2\\home_work_2\\Program.cs",
+              "RelativeDocumentMoniker": "home_work_2\\Program.cs",
+              "ToolTip": "H:\\Programming\\C#\\Visual Studio\\home_work_2\\home_work_2\\Program.cs",
+              "RelativeToolTip": "home_work_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:48:18.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

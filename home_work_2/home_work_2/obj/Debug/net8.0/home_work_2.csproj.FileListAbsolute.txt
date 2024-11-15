@@ -1,0 +1,14 @@
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\bin\Debug\net8.0\home_work_2.exe
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\bin\Debug\net8.0\home_work_2.deps.json
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\bin\Debug\net8.0\home_work_2.runtimeconfig.json
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\bin\Debug\net8.0\home_work_2.dll
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\bin\Debug\net8.0\home_work_2.pdb
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.AssemblyInfoInputs.cache
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.AssemblyInfo.cs
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.csproj.CoreCompileInputs.cache
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.dll
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\refint\home_work_2.dll
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.pdb
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\home_work_2.genruntimeconfig.cache
+H:\Programming\C#\Visual Studio\home_work_2\home_work_2\obj\Debug\net8.0\ref\home_work_2.dll
